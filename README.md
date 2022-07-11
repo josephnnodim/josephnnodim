@@ -1,7 +1,7 @@
 - 👋 Hi, I am a data enthusiast with a background in enegineering, statistics and Big Data Analytics
 - 👀 I m interested in technology and making efforts to advance my skills in python programming
-- 🌱 Through self effort, I’ve completed somecourses and a few machine learning projetcs currently l
+- 🌱 Through self effort, I’ve completed somecourses and a few machine learning projetcs
 - I have completed a project on how to predict human activity with machine learning algorithms
 - 💞️ I’m looking to collaborate on a project that involve using machine learning algorithms with live data to predict illnesses 
-- I am also interesting in learning how to automate tasks using maching learnin 
+- I am also interesting in learning how to automate tasks using maching learning algorithms 
 - 📫 How to reach me- please connect me on linkedIn
